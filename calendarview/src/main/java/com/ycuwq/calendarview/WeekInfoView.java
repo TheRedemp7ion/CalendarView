@@ -18,7 +18,7 @@ import com.ycuwq.calendarview.utils.DensityUtil;
 public class WeekInfoView extends View {
 	private Context mContext;
 
-	private String[] mWeekArray = {"一", "二", "三", "四", "五", "六", "日"};
+	private String[] mWeekArray = {""};
 	private TextPaint mTextPaint;
 
     private CalendarViewDelegate mDelegate;
